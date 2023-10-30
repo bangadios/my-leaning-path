@@ -3,3 +3,5 @@ Learning Path
 ====================================
 
 - Learn github
+- Learn Python
+  + Django
